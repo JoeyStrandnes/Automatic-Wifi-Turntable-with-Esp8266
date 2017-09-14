@@ -5,7 +5,7 @@ This is a simple automation for turntables using an Esp8266, Blynk and 28BYJ-48 
 
 To get started with this turntable youll need the following
 
-##Software
+## Software
 ```
   - Arduino IDE
   - Blynk Library https://github.com/blynkkk/blynk-library/releases/tag/v0.4.8
@@ -24,4 +24,4 @@ To get started with this turntable youll need the following
 
 ## Schematic
 ```
-  
+  ![]()
