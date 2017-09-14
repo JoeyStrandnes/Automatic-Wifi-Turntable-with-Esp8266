@@ -24,4 +24,4 @@ To get started with this turntable youll need the following
 
 ## Schematic
 ```
-  ![]()
+  ![](/Schematics/Headphone.jpg)
