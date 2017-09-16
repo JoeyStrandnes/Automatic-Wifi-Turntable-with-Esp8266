@@ -7,8 +7,8 @@
 
 CustomStepper stepper(2, 3, 4, 5, (byte[]){8, B1000, B1100, B0100, B0110, B0010, B0011, B0001, B1001}, 4075.7728395, 12, CW); //Setting up stepper
 
-char * ssid = "ASUS"; //Network name
-char * pass = "jomak005"; //Password
+char * ssid = "SSID"; //Network name
+char * pass = "pswd"; //Password
 char * auth = "3c069d1ec97447fda3969e03b01d0f60"; 
 
 int pics = 50;
