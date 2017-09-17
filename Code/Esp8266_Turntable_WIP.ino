@@ -9,7 +9,7 @@ CustomStepper stepper(2, 3, 4, 5, (byte[]){8, B1000, B1100, B0100, B0110, B0010,
 
 char * ssid = "SSID"; //Network name
 char * pass = "pswd"; //Password
-char * auth = "3c069d1ec97447fda3969e03b01d0f60"; 
+char * auth = "Auth"; 
 
 int pics = 50;
 double steps; 
