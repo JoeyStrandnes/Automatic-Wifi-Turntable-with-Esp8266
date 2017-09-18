@@ -16,6 +16,7 @@ To get started with this turntable youll need the following
 ```
   - Esp8266
   - 28Byj-48 Stepper Motor
+  - Unipolar stepper motor driver (Or a bipolar one, you have to disconnet the red wire, in this example i used the ULN2003 driver)
   - 3.5 mm male headphone connetor with microphone pin (4-pin)
   - 600 Ω resistor
   - PNP transistor
