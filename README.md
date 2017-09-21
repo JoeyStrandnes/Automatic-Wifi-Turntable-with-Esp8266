@@ -8,8 +8,8 @@ To get started with this turntable youll need the following
 ## Software
 ```
   - Arduino IDE
-  - Blynk Library https://github.com/blynkkk/blynk-library/releases/tag/v0.4.8
-  - AccelStepper Library http://www.airspayce.com/mikem/arduino/AccelStepper/index.html
+  - Blynk [Library](https://github.com/blynkkk/blynk-library/releases/tag/v0.4.8)
+  - AccelStepper [Library](http://www.airspayce.com/mikem/arduino/AccelStepper/index.html)
   ```
   
 ## Hardware
