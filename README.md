@@ -25,6 +25,4 @@ To get started with this turntable youll need the following
 
 ## Schematic
 ```
-  <img src="Schematics/Headphone.jpg" >
-  Headphone Schematic:
-!(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+  ![schematicv2](https://user-images.githubusercontent.com/26739868/30701257-1877245c-9eea-11e7-89d0-3a2cb9a062f8.png)
