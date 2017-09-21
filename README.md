@@ -52,6 +52,16 @@ ESP8266 - Using a NodeMCU
    Motor Driver Pin: ON ---> Short both "ON" pins with a jumper cable to activate the motor driver
    Motor Driver Pin: Plastic connector ---> Connect it to the motor 
    
-   
-
+```
+## Setting up the code
+```
+Change the following lines:
+  Line: 18 ---> Replace the text SSID with your network name
+  Line: 19 ---> Replace the text paswd with your network password
+  Line: 20 ---> Replace the text Auth with your auth token from Blynk (More details later on in the article)
+  
+---Optional---
+   Depending on which board you are using you might need to change the pins used
+   Line: 9-12 ---> Change the pins to the pins you’d rather use (Motor driver pins)
+   Line: 28 ---> Change the pin to the pin you’d rather use (Used to take the picture)
 
