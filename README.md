@@ -1,9 +1,5 @@
 # Automatic-Wifi-Turntable-with-Esp8266
-This is a simple ultra low cost automation for turntables using an Esp8266, Blynk and 28BYJ-48 stepper motor! It uses a mobile phone combined with an Esp to take a set number of photos per revolution.
-
-## Getting Started
-
-To get started with this turntable youll need the following
+This is a simple ultra-low cost automation for turntables using an Esp8266, Blynk and 28BYJ-48 stepper motor! It uses a mobile phone combined with an Esp to take a variable amount of photos per revolution.
 
 ## Features
 ```
