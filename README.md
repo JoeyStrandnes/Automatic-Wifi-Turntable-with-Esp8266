@@ -96,9 +96,11 @@ And that should be it!
 ```
 ## Finishing up the project
 ```
-To finalize the project youll need something to contain it, Ive designed 3 files to print on a 3D-printer. The turntable, a top lid and a bottom lid to the container.
+To finalize the project youll need something to contain it, Ive designed 3 files to print on a 3D-printer.
+The turntable, a top lid and a bottom lid to the container.
 
-Print all these files in whatever material you want it doesn’t matter, however they are designed with very little tolerance to prevent play in the system so I recommend sanding the threads down a bit before fitting them for the first time. For more info check out my Thingyverse post (Link coming soon)
+Print all these files in whatever material you want it doesn’t matter, however they are designed with very little tolerance to prevent play in the system so I recommend sanding the threads down a bit before fitting them for the first time.
+For more info check out my Thingyverse post (Link coming soon)
 
 Screw everything together and its done!
 
