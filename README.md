@@ -9,7 +9,10 @@ To get started with this turntable youll need the following
 ```
 - Ultra low cost ( ~3$ USD shipped - Ebay)
 - Uses any moder phone as camera
-- Connect to Wifi to change settings (Amount of pictures, speed and start and stop)
+- Variable amount of pictures
+- Speed setting (Slower or faster)
+- Pauses between each photo to ensure a still image
+- Connects to Wi-Fi to change settings wirelessly from phone (Amount of pictures, speed and start and stop)
 - IOS and Android app
 - Very small formfactor ( ~160 cm² )
 
