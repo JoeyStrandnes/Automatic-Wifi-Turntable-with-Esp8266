@@ -20,7 +20,9 @@ To get started with this turntable youll need the following
   - 3.5 mm male headphone connetor with microphone pin (4-pin)
   - 600 Ω resistor
   - NPN transistor (BC547C)
+  - Two screws and two nuts
   - Some cables
+  - And a file or sand paper
 ```
 
 ## Schematic
@@ -73,13 +75,17 @@ This is made possible thanks to the people over at Blynk!
 If you are using Android download this app from the Play store: http://j.mp/blynk_Android
 If you are using IOS download the app from the Apple store: http://j.mp/blynk_iOS
 
+Now to use the app with this projekt your going to have to clone my project. To do so go to the schematics folder in my GitHub repo and open the file called Turntable - APP.jpg and scann the QR code. or open this link http://tinyurl.com/ybspq849
 
+ And that should be it!
+```
+## Finishing up the project
+```
+To finalize the project youll need something to contain it, Ive designed 3 files to print on a 3D-printer. The turntable, a top lid and a bottom lid to the container.
 
+Print all these files in whatever material you want it doesn’t matter, however they are designed with very little tolerance to prevent play in the system so I recommend sanding the threads down a bit before fitting them for the first time. For more info check out my Thingyverse post (Link coming soon)
 
+Screw everything together and its done!
 
-
-
-
-
-
+Hope you enjoyed this project!
 ```
