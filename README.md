@@ -25,4 +25,14 @@ To get started with this turntable youll need the following
 
 ## Schematic
 ```
-  ![schematicv2](https://user-images.githubusercontent.com/26739868/30701257-1877245c-9eea-11e7-89d0-3a2cb9a062f8.png)
+Check the schematics folder for full scematics!
+
+###ESP8266 - Using a NodeMCU
+
+###NodeMCU - Motor Driver Board
+NodeMCU Pin: D0 ---> IN1
+NodeMCU Pin: D1 ---> IN2
+NodeMCU Pin: D2 ---> IN3
+NodeMCU Pin: D3 ---> IN4
+
+
