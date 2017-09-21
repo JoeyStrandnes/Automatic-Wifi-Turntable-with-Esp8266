@@ -5,6 +5,16 @@ This is a simple ultra low cost automation for turntables using an Esp8266, Blyn
 
 To get started with this turntable youll need the following
 
+## Features
+```
+- Ultra low cost ( ~3$ USD shipped - Ebay)
+- Uses any moder phone as camera
+- Connect to Wifi to change settings (Amount of pictures, speed and start and stop)
+- IOS and Android app
+- Very small formfactor ( ~160 cm² )
+
+```
+
 ## Software
 ```
   - Arduino IDE
@@ -77,7 +87,9 @@ If you are using IOS download the app from the Apple store: http://j.mp/blynk_iO
 
 Now to use the app with this projekt your going to have to clone my project. To do so go to the schematics folder in my GitHub repo and open the file called Turntable - APP.jpg and scann the QR code. or open this link http://tinyurl.com/ybspq849
 
- And that should be it!
+Now in the app go to project setting and get the Auth Token and replace Auth in Line:20 with the Auth Token
+
+And that should be it!
 ```
 ## Finishing up the project
 ```
